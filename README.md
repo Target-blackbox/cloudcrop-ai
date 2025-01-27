@@ -1,5 +1,3 @@
-# cloudcrop-ai
-This prototype uses artificial intelligence within Google Cloud tools to generate crop recommendations alongside weather alerts and produce market price forecasts.
 # CloudCrop AI 🌱
 
 CloudCrop AI is a prototype solution designed to empower farmers by leveraging AI and cloud technologies. The project aims to provide crop recommendations, weather alerts, and market price predictions to support sustainable and efficient agricultural practices.
