@@ -1,0 +1,1 @@
+This folder contains the documantation of the project
