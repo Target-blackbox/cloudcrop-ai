@@ -34,5 +34,5 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 ---
 
 ## 📧 Contact
-For inquiries, reach out at [youremail@example.com](mailto:akhildevreddy207@gmail.com).
+For inquiries, reach out at [akhildevreddy207@gmail.com](mailto:akhildevreddy207@gmail.com).
 
