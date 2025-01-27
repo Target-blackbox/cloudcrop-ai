@@ -22,4 +22,24 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 ---
 
 ## 📂 Repository Structure
-/ (root) ├── README.md # Overview of the project ├── docs/ │ └── architecture-diagram.png # System architecture diagram ├── frontend/ │ └── index.html # Basic landing page ├── backend/ │ └── app.py # Placeholder backend API ├── ml-model/ │ └── model.py # AI/ML scripts for crop recommendations ├── data/ │ └── sample-data.csv # Sample agricultural data for testing
+
+
+
+---
+
+## 🌟 Future Development
+- Expand the crop recommendation algorithm using advanced datasets.
+- Add support for multiple languages to reach diverse user groups.
+- Develop a dedicated mobile app for better farmer engagement.
+
+---
+
+## 🔗 Demo
+[Link to Hosted Application (if any)](https://your-app-link.com)  
+[Presentation Slides (if any)](https://slides-link.com)
+
+---
+
+## 📧 Contact
+For inquiries, reach out at [youremail@example.com](mailto:youremail@example.com).
+
