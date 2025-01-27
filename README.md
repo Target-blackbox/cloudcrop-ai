@@ -16,7 +16,7 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 - **Gemini API**: Real-time data insights for accurate predictions and alerts.
 - **IoT Sensors**: Collect field-level data (e.g., soil moisture, temperature).
 - **BigQuery**: Efficient storage and querying of agricultural datasets.
-- **Flask (Backend)**: Mock API for handling requests and integrating ML models.
+- **Django (Backend)**: Mock API for handling requests and integrating ML models.
 - **Python**: For building and testing AI/ML models.
 
 ---
