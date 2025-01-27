@@ -21,12 +21,6 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 
 ---
 
-## 📂 Repository Structure
-
-
-
----
-
 ## 🌟 Future Development
 - Expand the crop recommendation algorithm using advanced datasets.
 - Add support for multiple languages to reach diverse user groups.
