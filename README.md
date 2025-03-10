@@ -12,12 +12,15 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 ---
 
 ## 📚 Technologies Used
-- **Google Cloud Platform**: Cloud infrastructure for scalable AI and data processing.
-- **Gemini API**: Real-time data insights for accurate predictions and alerts.
-- **IoT Sensors**: Collect field-level data (e.g., soil moisture, temperature).
-- **BigQuery**: Efficient storage and querying of agricultural datasets.
-- **Django (Backend)**: Mock API for handling requests and integrating ML models.
-- **Python**: For building and testing AI/ML models.
+- **Vite: Fast build tool for modern web development.
+- **React (TypeScript): Component-based UI framework with type safety.
+- **ShadCN/UI: Pre-built UI components for better design consistency.
+- **Tailwind CSS: Utility-first CSS framework for styling.
+- **ESLint & Prettier: Code linting and formatting.
+- **PostCSS: CSS transformations and optimizations.
+- **Firebase Hosting: Deployment platform for static and dynamic web apps.
+- **Google Cloud Platform: Backend services and AI integration.
+- **Gemini API: AI-powered insights and predictions.
 
 ---
 
