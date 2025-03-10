@@ -12,15 +12,15 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 ---
 
 ## 📚 Technologies Used
-- **Vite: Fast build tool for modern web development.
-- **React (TypeScript): Component-based UI framework with type safety.
-- **ShadCN/UI: Pre-built UI components for better design consistency.
-- **Tailwind CSS: Utility-first CSS framework for styling.
-- **ESLint & Prettier: Code linting and formatting.
-- **PostCSS: CSS transformations and optimizations.
-- **Firebase Hosting: Deployment platform for static and dynamic web apps.
-- **Google Cloud Platform: Backend services and AI integration.
-- **Gemini API: AI-powered insights and predictions.
+- **Vite**: Fast build tool for modern web development.
+- **React (TypeScript)**: Component-based UI framework with type safety.
+- **ShadCN/UI**: Pre-built UI components for better design consistency.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **ESLint & Prettier**: Code linting and formatting.
+- **PostCSS**: CSS transformations and optimizations.
+- **Firebase Hosting**: Deployment platform for static and dynamic web apps.
+- **Google Cloud Platform**: Backend services and AI integration.
+- **Gemini API**: AI-powered insights and predictions.
 
 ---
 
