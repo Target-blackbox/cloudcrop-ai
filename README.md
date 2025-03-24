@@ -33,6 +33,7 @@ CloudCrop AI is a prototype solution designed to empower farmers by leveraging A
 
 ## 🔗 Demo 
 [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ7IPlNHSGr3eb48POkTeQJ9K6fIOdpR9pfZUmBxE9EWkw87PqWp5KEKlRYWLip6T-Rd-nTyiTveH2E/pub?start=false&loop=false&delayms=3000)
+[Live Link](https://cloudcrop-ai-v1.web.app/)
 
 ---
 
